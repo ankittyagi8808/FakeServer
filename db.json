@@ -1,24 +1,24 @@
 {
 	"jobs": [{
 			"moduleName": "Rfx",
-			"TotalTest": "100",
-			"PassedTest": "50",
-			"FailedTestcase": "20",
-			"Inprogress": "30"
+			"totalTestcasecase": "100",
+			"passedTestCases": "50",
+			"failedTestCases": "20",
+			"inProgress": "30"
 		},
 		{
 			"moduleName": "Supplier",
-			"TotalTest": "200",
-			"PassedTest": "150",
-			"FailedTestcase": "120",
-			"Inprogress": "130"
+			"totalTestcase": "200",
+			"passedTestCases": "150",
+			"failedTestCases": "120",
+			"inProgress": "130"
 		},
 		{
 			"moduleName": "P2p",
-			"TotalTest": "100",
-			"PassedTest": "50",
-			"FailedTestcase": "20",
-			"Inprogress": "30"
+			"totalTestcase": "100",
+			"passedTestCases": "50",
+			"failedTestCases": "20",
+			"inProgress": "30"
 		}
 	]
 }
